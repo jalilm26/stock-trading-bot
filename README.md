@@ -14,7 +14,10 @@ functional requirements:
 - buy/sell positions given algorithmic conditions
 - track performance
 - chart displays
-- live market prices and data
+- provide live market prices and data
 - paper trade with fake money (alpaca)
+  
+  non-functional requirements:
+ - executes trades in 1.5 ms
 
   # Strategy
