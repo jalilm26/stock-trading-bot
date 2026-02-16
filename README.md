@@ -9,4 +9,12 @@ Pandas, Numpy, Matplotlib
 # Current status
 In progress.
 
+# Project Requirements
+functional requirements:
+- buy/sell positions given algorithmic conditions
+- track performance
+- chart displays
+- live market prices and data
+- paper trade with fake money (alpaca)
 
+  # Strategy
