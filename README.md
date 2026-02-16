@@ -4,6 +4,7 @@ Objective: to trade stocks during market hours to generate returns using paper t
 # Tech-stack
 Python
 Alpaca API
+Pandas, Numpy, Matplotlib
 
 # Current status
 In progress.
